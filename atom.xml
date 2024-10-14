@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>陌颜Hao</title>
+  <title>陌颜Star</title>
   
   <subtitle>愿永不忘初心！</subtitle>
-  <link href="https://blog.imoyan.top/atom.xml" rel="self"/>
+  <link href="https://blog.imoyan.cc/atom.xml" rel="self"/>
   
-  <link href="https://blog.imoyan.top/"/>
+  <link href="https://blog.imoyan.cc/"/>
   <updated>2024-10-12T11:01:38.252Z</updated>
-  <id>https://blog.imoyan.top/</id>
+  <id>https://blog.imoyan.cc/</id>
   
   <author>
     <name>懒陌颜</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://blog.imoyan.top/posts/16107.html"/>
-    <id>https://blog.imoyan.top/posts/16107.html</id>
+    <link href="https://blog.imoyan.cc/posts/16107.html"/>
+    <id>https://blog.imoyan.cc/posts/16107.html</id>
     <published>2024-10-14T00:27:55.556Z</published>
     <updated>2024-10-12T11:01:38.252Z</updated>
     
