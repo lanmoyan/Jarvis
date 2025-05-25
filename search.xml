@@ -69,17 +69,6 @@
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="/links/index.html"/>
-      <url>/links/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>我的装备</title>
       <link href="/equipment/index.html"/>
       <url>/equipment/index.html</url>
@@ -91,9 +80,9 @@
     
     
     <entry>
-      <title>音乐馆</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>友情链接</title>
+      <link href="/links/index.html"/>
+      <url>/links/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -113,9 +102,9 @@
     
     
     <entry>
-      <title>最近评论</title>
-      <link href="/recentcomments/index.html"/>
-      <url>/recentcomments/index.html</url>
+      <title>留言板</title>
+      <link href="/message/index.html"/>
+      <url>/message/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -124,9 +113,20 @@
     
     
     <entry>
-      <title>留言板</title>
-      <link href="/message/index.html"/>
-      <url>/message/index.html</url>
+      <title>音乐馆</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>最近评论</title>
+      <link href="/recentcomments/index.html"/>
+      <url>/recentcomments/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
